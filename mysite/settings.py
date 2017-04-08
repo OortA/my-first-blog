@@ -25,7 +25,7 @@ SECRET_KEY = 'r5a#5wpu1d4kdyf(d0-9%t7q)ba(dvel_td7rqdvmgoe@vwyu_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['oorta.pythonanywhere.com']
+ALLOWED_HOSTS = ['oorta.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
