@@ -1,0 +1,52 @@
+Last login: Sat Apr  8 08:04:21 on ttys001
+visitor-19171878:~ taniabuhlergarrido$ python3
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 2+3
+5
+>>> 2>3
+False
+>>> 40*6/-9
+-26.666666666666668
+>>> a=True
+>>> b=True
+>>> a-b
+0
+>>> a=True
+>>> b=False
+>>> a and b
+False
+>>> a or b
+True
+>>> a+b
+1
+>>> me=Amélie
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Amélie' is not defined
+>>> me = 'Amélie'
+>>> me
+'Amélie'
+>>> print('Amélie')
+Amélie
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> exit()
+visitor-19171878:~ taniabuhlergarrido$ python3
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> me='Amélie'
+>>> me
+'Amélie'
+>>> 1>2
+False
+>>> 40*7/6.9
+40.57971014492753
+>>> 
+  [Restauré 28 avr. 2017 à 16:32:18]
+Last login: Fri Apr 28 16:32:18 on ttys001
+MacBook-Air-de-Tania:~ taniabuhlergarrido$ 
